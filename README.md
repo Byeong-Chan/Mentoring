@@ -1,2 +1,12 @@
-# Mentoring
-Mentoring Problem Solving
+# 멘토링
+문제풀이 멘토링 입니다.
+
+## 개요
+문제풀이 관련 자료를 올립니다.
+
+##자료구조
+- ArrayList
+- List
+
+##테크닉
+- Random
