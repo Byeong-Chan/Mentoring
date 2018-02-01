@@ -22,6 +22,7 @@
     - [로또](https://www.acmicpc.net/problem/6603)
     - [암호 만들기](https://www.acmicpc.net/problem/1759)
     - [Perfect Number](http://codeforces.com/contest/919/problem/B)
+
 ### 2.4.2 DFS/BFS
     - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
     - [바이러스](https://www.acmicpc.net/problem/2606)
