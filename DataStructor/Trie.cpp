@@ -94,6 +94,8 @@ int main() {
     printf("\n");
     clear(Root);
     
+    Root = new Node;
+    
     printf("%d\n", find("Apple", Root));
     
     return 0;
