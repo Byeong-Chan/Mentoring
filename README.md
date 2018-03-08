@@ -25,6 +25,7 @@
  - Graph
  - Tree
  - DFS/BFS
+ - Heap
 ## 2.5 문제
 ### 2.5.1 Backtracking
  - [로또](https://www.acmicpc.net/problem/6603)
