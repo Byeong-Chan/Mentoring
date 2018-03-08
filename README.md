@@ -8,11 +8,15 @@
 ## 2.1 알고리즘
  - KMP
  - Rabin-Karp
+ - Quick Sort
+ - Bucket Sort
 ## 2.2 자료구조
  - ArrayList
  - List
  - Trie
  - Hash
+ - Heap
+ - Heap using Compare function
 ## 2.3 테크닉
  - Random
  - Trie with Array
@@ -34,3 +38,9 @@
 ### 2.5.3 String Algorithm
  - [찾기(KMP or Rabin-Karp)](https://www.acmicpc.net/problem/1786)
  - [전화번호 목록(Trie)](https://www.acmicpc.net/problem/5052)
+### 2.5.4 Heap
+ - [카드 정렬하기](https://www.acmicpc.net/problem/1715)
+ - [가운데를 말해요](https://www.acmicpc.net/problem/1655)
+### 2.5.5 Sort
+ - [수 정렬하기 2(Quick Sort)](https://www.acmicpc.net/problem/2751)
+ - [수 정렬하기 3(Bucket Sort)](https://www.acmicpc.net/problem/10989)
